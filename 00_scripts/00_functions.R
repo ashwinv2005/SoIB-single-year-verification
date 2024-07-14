@@ -115,8 +115,7 @@ expand_dt = function(data, species) {
   setDT(data)
   data <- data %>% 
     lazy_dt(immutable = FALSE) |> 
-    mutate(across(contains("gridg"), ~ as.factor(.))) %>% 
-    mutate(timegroups = as.factor(timegroups)) |> 
+    mutate(across(contains("gridg"), ~ as.factor(.))) |> 
     as.data.table()
 
 
@@ -127,7 +126,7 @@ expand_dt = function(data, species) {
   # considers only complete lists
   checklistinfo <- unique(data[, 
       .(gridg1, gridg2, gridg3, gridg4, ALL.SPECIES.REPORTED, OBSERVER.ID, 
-        group.id, month, year, no.sp, timegroups)
+        group.id, month, year, no.sp)
       ])[
         # filter
       ALL.SPECIES.REPORTED == 1
@@ -147,7 +146,7 @@ expand_dt = function(data, species) {
     left_join(data |> lazy_dt(immutable = FALSE),
               by = c("group.id", "gridg1", "gridg2", "gridg3", "gridg4",
                       "ALL.SPECIES.REPORTED", "OBSERVER.ID", "month", "year", 
-                      "no.sp", "timegroups", "COMMON.NAME")) %>%
+                      "no.sp","COMMON.NAME")) %>%
     dplyr::select(-c("COMMON.NAME","gridg2","gridg4","OBSERVER.ID",
                      "ALL.SPECIES.REPORTED","group.id","year","gridg0")) %>% 
     # deal with NAs (column is character)
@@ -191,15 +190,6 @@ singlespeciesrun = function(data, species, specieslist, restrictedspecieslist)
     if (restrictedlist1$mixed == 0) {
       flag = 2
     }
-  }
-  
-  # filters data based on whether the species has been selected for long-term trends (ht) 
-  # or short-term trends (rt) 
-  # (if only recent, then need to filter for recent years. else, use all years so no filter.)
-  
-  if (is.na(specieslist2$ht) & !is.na(specieslist2$rt))
-  {
-    data1 = data1 %>% filter(year >= 2015)
   }
   
   data1 = data1 %>%
