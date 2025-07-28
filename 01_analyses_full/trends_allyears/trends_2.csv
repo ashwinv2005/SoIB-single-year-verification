@@ -1,0 +1,724 @@
+sl,COMMON.NAME,freq,se
+2,Fulvous Whistling-Duck,-5.057545889,0.665547509
+2,Lesser Whistling-Duck,-2.698352154,0.62917704
+2,Bar-headed Goose,-4.418200121,0.654904336
+2,Graylag Goose,-4.780407297,0.677497374
+2,Knob-billed Duck,-3.82555959,0.650358808
+2,Ruddy Shelduck,-3.677614414,0.610687398
+2,Cotton Pygmy-Goose,-4.179086302,0.65740991
+2,Garganey,-4.788845101,0.648193469
+2,Northern Shoveler,-4.569925275,0.640519578
+2,Gadwall,-4.320166775,0.66391357
+2,Eurasian Wigeon,-5.036617987,0.654215598
+2,Indian Spot-billed Duck,-2.79300343,0.616575627
+2,Mallard,-4.870628372,0.639147656
+2,Northern Pintail,-4.678344648,0.631072245
+2,Green-winged Teal,-4.867801889,0.684667121
+2,Red-crested Pochard,-4.517802801,0.664018692
+2,Common Pochard,-4.467124594,0.676254732
+2,Ferruginous Duck,-5.4845155,0.895926475
+2,Tufted Duck,-4.905733635,0.680716711
+2,Common Merganser,-5.254684903,0.64423508
+2,Hill Partridge,-4.370236672,0.632223336
+2,Himalayan Monal,-4.231828224,0.67781709
+2,Kalij Pheasant,-3.960739271,0.637119632
+2,Indian Peafowl,-1.893641948,0.669305016
+2,Red Spurfowl,-4.679226968,0.675951645
+2,Painted Spurfowl,-4.530419459,0.646536445
+2,Red Junglefowl,-3.569836592,0.666663583
+2,Gray Junglefowl,-4.216620909,0.657626223
+2,Gray Francolin,-1.993581465,0.646446785
+2,Swamp Francolin,-4.385971182,0.694476812
+2,Black Francolin,-3.344896291,0.665890874
+2,Painted Francolin,-3.536297581,0.648160968
+2,Rain Quail,-4.79714354,0.663235363
+2,Chukar,-2.847327285,0.735262496
+2,Jungle Bush-Quail,-4.38242358,0.632976903
+2,Rock Bush-Quail,-4.121828409,0.62932572
+2,Greater Flamingo,-4.346559376,0.683316563
+2,Lesser Flamingo,-4.222659053,0.664957216
+2,Little Grebe,-2.811923271,0.632883172
+2,Great Crested Grebe,-4.361574719,0.649007463
+2,Rock Pigeon,-1.233116278,0.633891083
+2,Hill Pigeon,-2.404895604,0.726315744
+2,Snow Pigeon,-3.781893336,0.682012918
+2,Speckled Wood-Pigeon,-4.922588599,0.634363498
+2,Nilgiri Wood-Pigeon,-6.354960453,0.634405121
+2,Oriental Turtle-Dove,-3.467222909,0.614649801
+2,Eurasian Collared-Dove,-1.784884454,0.653092022
+2,Red Collared-Dove,-3.411903769,0.656832491
+2,Spotted Dove,-1.390991573,0.642201444
+2,Laughing Dove,-1.595564553,0.662333966
+2,Barred Cuckoo-Dove,-4.027172761,0.641014414
+2,Asian Emerald Dove,-3.944136998,0.64142126
+2,Orange-breasted Green-Pigeon,-5.444725394,0.655103501
+2,Gray-fronted Green-Pigeon,-4.994403559,0.662485467
+2,Thick-billed Green-Pigeon,-3.925762542,0.669431763
+2,Yellow-footed Green-Pigeon,-2.9360786,0.651630757
+2,Pin-tailed Green-Pigeon,-4.054668611,0.660314676
+2,Wedge-tailed Green-Pigeon,-4.199700744,0.630374068
+2,Green Imperial-Pigeon,-4.490128639,0.635119728
+2,Malabar Imperial-Pigeon,-5.820451453,0.635196141
+2,Mountain Imperial-Pigeon,-3.708462227,0.667108679
+2,Chestnut-bellied Sandgrouse,-3.894573923,0.642375616
+2,Painted Sandgrouse,-4.340411369,0.663982369
+2,Greater Coucal,-1.42979293,0.642809566
+2,Lesser Coucal,-4.757297197,0.632310435
+2,Sirkeer Malkoha,-4.768238359,0.632048569
+2,Blue-faced Malkoha,-3.896823578,0.661416175
+2,Green-billed Malkoha,-3.662822118,0.645622982
+2,Chestnut-winged Cuckoo,-5.488331492,0.667840633
+2,Pied Cuckoo,-3.250136669,0.680308825
+2,Asian Koel,-1.544769417,0.689740235
+2,Banded Bay Cuckoo,-4.922912044,0.649452467
+2,Plaintive Cuckoo,-3.774351932,0.62597866
+2,Gray-bellied Cuckoo,-4.068454429,0.633531231
+2,Fork-tailed Drongo-Cuckoo,-4.986871827,0.65837781
+2,Square-tailed Drongo-Cuckoo,-3.810305115,0.653932395
+2,Large Hawk-Cuckoo,-4.991592862,0.687063086
+2,Common Hawk-Cuckoo,-2.63952923,0.637303035
+2,Lesser Cuckoo,-4.210306097,0.677028409
+2,Indian Cuckoo,-4.184412707,0.652056246
+2,Himalayan Cuckoo,-4.8373877,0.66306506
+2,Common Cuckoo,-4.077989063,0.651959403
+2,White-rumped Needletail,-6.219033842,0.635066401
+2,Brown-backed Needletail,-5.10534418,0.654281635
+2,Indian Swiftlet,-4.986412547,0.6593821
+2,Himalayan Swiftlet,-3.97986007,0.654738672
+2,Alpine Swift,-4.752420701,0.692215352
+2,Little Swift,-2.595001506,0.655544056
+2,Crested Treeswift,-4.398348383,0.678118755
+2,Slaty-breasted Rail,-5.710601898,0.66010557
+2,Eurasian Moorhen,-3.145392538,0.616424877
+2,Eurasian Coot,-3.200966557,0.661435589
+2,Gray-headed Swamphen,-3.367890033,0.65738167
+2,Watercock,-5.138005234,0.632777757
+2,White-breasted Waterhen,-2.289626899,0.634902608
+2,Ruddy-breasted Crake,-5.557973772,0.628033339
+2,Brown Crake,-4.75917909,0.635710037
+2,Baillon's Crake,-6.485531972,0.664174479
+2,Demoiselle Crane,-3.557622812,0.677679466
+2,Sarus Crane,-3.488479286,0.681276617
+2,Common Crane,-3.744320118,0.668273343
+2,Indian Thick-knee,-3.947540188,0.662310177
+2,Great Thick-knee,-4.76920192,0.653803391
+2,Black-winged Stilt,-2.772255434,0.630205142
+2,Pied Avocet,-4.976167885,0.676058513
+2,Eurasian Oystercatcher,-6.456670356,0.723820485
+2,Black-bellied Plover,-5.200550592,0.68589355
+2,Pacific Golden-Plover,-4.954190775,0.652410184
+2,Northern Lapwing,-5.29571768,0.656270709
+2,River Lapwing,-3.602637809,0.655353086
+2,Yellow-wattled Lapwing,-3.325825567,0.667082358
+2,Gray-headed Lapwing,-4.818148444,0.682647784
+2,Red-wattled Lapwing,-1.242950411,0.645720662
+2,White-tailed Lapwing,-53.07515219,1343.797984
+2,Lesser Sand-Plover,-4.401208371,0.675273079
+2,Kentish Plover,-4.53915176,0.65013837
+2,Little Ringed Plover,-3.706840616,0.622198569
+2,Greater Painted-Snipe,-4.652841272,0.650091807
+2,Pheasant-tailed Jacana,-3.999637809,0.655206284
+2,Bronze-winged Jacana,-3.330590631,0.643267227
+2,Whimbrel,-4.276922298,0.693641495
+2,Eurasian Curlew,-4.892090772,0.672050761
+2,Bar-tailed Godwit,-5.46778976,0.706705443
+2,Black-tailed Godwit,-4.592479944,0.671309024
+2,Ruddy Turnstone,-4.924310834,0.704152155
+2,Great Knot,-22.5631322,236.5843446
+2,Ruff,-4.430245679,0.600946846
+2,Broad-billed Sandpiper,-5.987220282,0.772262834
+2,Curlew Sandpiper,-5.439318462,0.682743216
+2,Temminck's Stint,-4.449203727,0.611274802
+2,Sanderling,-5.933346659,0.666423998
+2,Dunlin,-5.38323265,0.674391478
+2,Little Stint,-4.356260876,0.65417545
+2,Common Snipe,-5.311787357,0.695210638
+2,Pin-tailed Snipe,-6.356407977,0.733508419
+2,Terek Sandpiper,-5.46260562,0.700477294
+2,Common Sandpiper,-2.980702175,0.626792185
+2,Green Sandpiper,-3.662411003,0.638257858
+2,Spotted Redshank,-4.92079996,0.622785731
+2,Common Greenshank,-4.280505677,0.622041929
+2,Marsh Sandpiper,-4.809302999,0.618500597
+2,Wood Sandpiper,-3.715672168,0.656865607
+2,Common Redshank,-4.165699872,0.671745846
+2,Barred Buttonquail,-4.263467329,0.671540457
+2,Indian Courser,-4.667133739,0.596275915
+2,Oriental Pratincole,-5.100417622,0.714668282
+2,Small Pratincole,-4.598681832,0.639017644
+2,Slender-billed Gull,-6.009841688,0.703264885
+2,Black-headed Gull,-5.39602921,0.653637332
+2,Brown-headed Gull,-4.988089918,0.666174296
+2,Pallas's Gull,-4.805354665,0.671760161
+2,Lesser Black-backed Gull,-5.426874589,0.655944834
+2,Little Tern,-4.592770291,0.612582507
+2,Gull-billed Tern,-4.895883813,0.644009436
+2,Caspian Tern,-4.856674703,0.63577148
+2,Whiskered Tern,-4.568305071,0.617705032
+2,Common Tern,-5.100682318,0.665589691
+2,Black-bellied Tern,-4.756676976,0.674916906
+2,River Tern,-3.323789296,0.645556514
+2,Great Crested Tern,-4.901805595,0.671104376
+2,Sandwich Tern,-7.754537404,0.75529661
+2,Lesser Crested Tern,-4.798930996,0.696597685
+2,Indian Skimmer,-4.641893398,0.706619274
+2,Asian Openbill,-2.607549226,0.653010883
+2,Black Stork,-4.703241668,0.696937594
+2,Asian Woolly-necked Stork,-3.59867641,0.647943908
+2,Black-necked Stork,-4.527048045,0.652582035
+2,Lesser Adjutant,-4.208892038,0.63517883
+2,Painted Stork,-3.155264366,0.607406971
+2,Oriental Darter,-3.49396407,0.652433402
+2,Little Cormorant,-1.595851746,0.650715647
+2,Great Cormorant,-3.280389558,0.667935995
+2,Indian Cormorant,-3.10196611,0.652524423
+2,Great White Pelican,-4.326011282,0.66561041
+2,Spot-billed Pelican,-4.801042987,0.627145564
+2,Dalmatian Pelican,-4.094215595,0.665669928
+2,Yellow Bittern,-4.616451433,0.654877326
+2,Cinnamon Bittern,-4.479639968,0.672677916
+2,Black Bittern,-4.529411006,0.652142048
+2,Gray Heron,-2.817446515,0.640128388
+2,Purple Heron,-3.098058975,0.673971493
+2,Great Egret,-2.665216546,0.67710556
+2,Intermediate Egret,-2.640991832,0.64251569
+2,Little Egret,-1.972526412,0.639272982
+2,Western Reef-Heron,-4.741289877,0.639449635
+2,Cattle Egret,-1.361762837,0.638621386
+2,Indian Pond-Heron,-1.337257539,0.652273797
+2,Striated Heron,-4.236125583,0.665691606
+2,Black-crowned Night-Heron,-3.403445453,0.634669982
+2,Glossy Ibis,-3.545341349,0.655419485
+2,Black-headed Ibis,-2.874240423,0.650858205
+2,Red-naped Ibis,-2.676876169,0.649999731
+2,Eurasian Spoonbill,-4.001089685,0.662482888
+2,Osprey,-4.928095017,0.683017796
+2,Black-winged Kite,-2.72481988,0.650694159
+2,Bearded Vulture,-3.317367302,0.660178196
+2,Egyptian Vulture,-3.796379045,0.630064301
+2,Oriental Honey-buzzard,-3.519908744,0.638019873
+2,Jerdon's Baza,-4.554375699,0.660926264
+2,Black Baza,-5.23497133,0.68927288
+2,Red-headed Vulture,-4.813070026,0.657489395
+2,Cinereous Vulture,-4.477122023,0.659142366
+2,White-rumped Vulture,-4.925710095,0.61922872
+2,Indian Vulture,-4.815411048,0.662884099
+2,Himalayan Griffon,-3.637705229,0.676712361
+2,Eurasian Griffon,-5.00322767,0.815216489
+2,Crested Serpent-Eagle,-3.656072464,0.636373151
+2,Short-toed Snake-Eagle,-4.277431106,0.645433974
+2,Changeable Hawk-Eagle,-4.666415621,0.682507657
+2,Mountain Hawk-Eagle,-4.734103968,0.645415073
+2,Rufous-bellied Eagle,-6.065491343,0.619609249
+2,Black Eagle,-4.830084479,0.652925609
+2,Indian Spotted Eagle,-5.174500852,0.639445147
+2,Greater Spotted Eagle,-5.016008843,0.647662983
+2,Booted Eagle,-4.382659264,0.65698022
+2,Tawny Eagle,-4.663159628,0.644761887
+2,Steppe Eagle,-5.510786096,0.797613498
+2,Imperial Eagle,-4.615095707,0.63580551
+2,Golden Eagle,-3.603329502,0.679799782
+2,Bonelli's Eagle,-4.375648517,0.682312451
+2,White-eyed Buzzard,-3.907664941,0.607162532
+2,Eurasian Marsh-Harrier,-4.791024176,0.648575242
+2,Hen Harrier,-5.186430406,0.648674643
+2,Pallid Harrier,-5.220094425,0.689859105
+2,Pied Harrier,-5.175785975,0.647047138
+2,Montagu's Harrier,-4.689107203,0.667337911
+2,Crested Goshawk,-4.888153217,0.63832484
+2,Shikra,-2.207018544,0.633385904
+2,Eurasian Sparrowhawk,-4.538689146,0.615855762
+2,Black Kite,-2.115288075,0.615555807
+2,Brahminy Kite,-3.23493505,0.62206989
+2,Pallas's Fish-Eagle,-5.736565283,0.740926601
+2,White-bellied Sea-Eagle,-4.016796623,0.651805412
+2,Lesser Fish-Eagle,-6.938654788,0.689627927
+2,Gray-headed Fish-Eagle,-5.372956713,0.671415267
+2,Common Buzzard,-5.002161689,0.637044134
+2,Long-legged Buzzard,-4.406693197,0.668615017
+2,Brown Fish-Owl,-5.008434757,0.635540921
+2,Asian Barred Owlet,-3.055334746,0.637445264
+2,Jungle Owlet,-3.548169315,0.626543022
+2,Collared Owlet,-4.326312793,0.659399525
+2,Short-eared Owl,-5.03425731,0.651957495
+2,Malabar Trogon,-5.09909278,0.652541235
+2,Red-headed Trogon,-4.441240769,0.690921465
+2,Eurasian Hoopoe,-2.878838392,0.66295533
+2,Great Hornbill,-4.902779751,0.661528705
+2,Indian Gray Hornbill,-2.502057319,0.675496553
+2,Malabar Gray Hornbill,-4.634985374,0.70659332
+2,Malabar Pied-Hornbill,-4.230688686,0.67879432
+2,Oriental Pied-Hornbill,-3.989318755,0.641404317
+2,Common Kingfisher,-2.694270631,0.616859142
+2,Blue-eared Kingfisher,-4.905990883,0.675782555
+2,Black-backed Dwarf-Kingfisher,-5.31166901,0.706682927
+2,Stork-billed Kingfisher,-3.904036864,0.634822141
+2,White-throated Kingfisher,-1.133873496,0.647240947
+2,Black-capped Kingfisher,-5.29420613,0.677384006
+2,Collared Kingfisher,-2.34943221,0.737822619
+2,Crested Kingfisher,-4.230290035,0.591942339
+2,Pied Kingfisher,-2.95241124,0.639293553
+2,Blue-bearded Bee-eater,-4.762425251,0.664950815
+2,Asian Green Bee-eater,-1.438362913,0.656896927
+2,Blue-cheeked Bee-eater,-3.530001679,0.664950631
+2,Blue-tailed Bee-eater,-3.089684686,0.63417211
+2,Chestnut-headed Bee-eater,-3.899297991,0.640775646
+2,European Roller,-3.826141586,0.723375947
+2,Indian Roller,-2.295685705,0.640458382
+2,Indochinese Roller,-3.307135641,0.666469542
+2,Dollarbird,-4.562200471,0.677776702
+2,Malabar Barbet,-5.045855102,0.690221423
+2,Coppersmith Barbet,-2.353969114,0.622737733
+2,Blue-eared Barbet,-3.857571799,0.679341692
+2,Great Barbet,-2.732778693,0.641461906
+2,Lineated Barbet,-3.027929478,0.638971087
+2,Brown-headed Barbet,-2.938603627,0.625314308
+2,White-cheeked Barbet,-2.748547678,0.655398042
+2,Golden-throated Barbet,-3.831802602,0.692953191
+2,Blue-throated Barbet,-2.262673536,0.645915003
+2,Eurasian Wryneck,-4.310163232,0.664788936
+2,Speckled Piculet,-5.048299858,0.649095328
+2,Heart-spotted Woodpecker,-5.268507469,0.640027949
+2,Brown-capped Pygmy Woodpecker,-4.206785224,0.64087543
+2,Gray-capped Pygmy Woodpecker,-4.397664193,0.637126987
+2,Yellow-crowned Woodpecker,-4.151178187,0.635384513
+2,Brown-fronted Woodpecker,-3.649424961,0.659882894
+2,Rufous-bellied Woodpecker,-4.712309331,0.663945074
+2,Fulvous-breasted Woodpecker,-3.797243258,0.641573629
+2,Himalayan Woodpecker,-2.960206234,0.664345886
+2,Bay Woodpecker,-3.760306807,0.659755848
+2,Greater Flameback,-4.184467033,0.627519972
+2,White-naped Woodpecker,-4.339259707,0.685960575
+2,Rufous Woodpecker,-4.27198161,0.634029195
+2,Black-rumped Flameback,-2.744821412,0.651548966
+2,Lesser Yellownape,-4.809921406,0.655811906
+2,Streak-throated Woodpecker,-5.131585479,0.630727858
+2,Scaly-bellied Woodpecker,-3.591993628,0.661067104
+2,Gray-headed Woodpecker,-3.606239457,0.608808777
+2,Greater Yellownape,-4.03210856,0.655421352
+2,White-bellied Woodpecker,-5.706847312,0.689506687
+2,Eurasian Kestrel,-3.856772876,0.63517753
+2,Red-necked Falcon,-4.915617828,0.621885263
+2,Amur Falcon,-4.726012144,0.698819574
+2,Eurasian Hobby,-5.127170867,0.683230751
+2,Laggar Falcon,-4.428656671,0.681445651
+2,Peregrine Falcon,-4.648330982,0.66038154
+2,Alexandrine Parakeet,-2.947269131,0.657783973
+2,Rose-ringed Parakeet,-1.292558412,0.662213457
+2,Slaty-headed Parakeet,-3.187861686,0.643730823
+2,Plum-headed Parakeet,-2.828998818,0.668189776
+2,Malabar Parakeet,-5.294421029,0.671692982
+2,Red-breasted Parakeet,-3.540015354,0.630499481
+2,Vernal Hanging-Parrot,-3.914930433,0.661177001
+2,Long-tailed Broadbill,-4.47111436,0.668775103
+2,Indian Pitta,-3.28473414,0.684052006
+2,White-bellied Minivet,-4.58901266,0.659582349
+2,Small Minivet,-3.315357802,0.656089946
+2,Short-billed Minivet,-4.245356683,0.654670758
+2,Long-tailed Minivet,-3.729802443,0.675618476
+2,Orange Minivet,-4.358897861,0.689227567
+2,Scarlet Minivet,-3.303543768,0.668211593
+2,Rosy Minivet,-4.568138735,0.654093405
+2,Large Cuckooshrike,-3.882761354,0.646210312
+2,Black-winged Cuckooshrike,-4.249734617,0.666116534
+2,Black-headed Cuckooshrike,-4.315325347,0.63899832
+2,White-browed Shrike-Babbler,-4.444771217,0.694526583
+2,Green Shrike-Babbler,-5.176993958,0.673204483
+2,Black-eared Shrike-Babbler,-4.613378003,0.723663147
+2,White-bellied Erpornis,-4.502979802,0.683240491
+2,Indian Golden Oriole,-2.765109324,0.665242753
+2,Black-naped Oriole,-4.45217901,0.620597509
+2,Black-hooded Oriole,-2.708199974,0.651146225
+2,Maroon Oriole,-3.707058793,0.643064469
+2,Ashy Woodswallow,-3.520898106,0.64983307
+2,Malabar Woodshrike,-5.851816093,0.640376818
+2,Large Woodshrike,-4.663525158,0.672653535
+2,Common Woodshrike,-3.572205753,0.657408054
+2,Bar-winged Flycatcher-shrike,-4.793376787,0.660574977
+2,Common Iora,-2.549361142,0.6462114
+2,White-tailed Iora,-4.889967278,0.67159735
+2,White-throated Fantail,-3.222516538,0.633435959
+2,Spot-breasted Fantail,-3.431837919,0.64064733
+2,White-browed Fantail,-3.672894784,0.647149226
+2,Black Drongo,-0.959897903,0.661933193
+2,Ashy Drongo,-3.19210223,0.653795039
+2,White-bellied Drongo,-3.697221378,0.649161549
+2,Bronzed Drongo,-3.633738199,0.660386366
+2,Lesser Racket-tailed Drongo,-4.392898004,0.672104222
+2,Hair-crested Drongo,-4.253086578,0.671447705
+2,Greater Racket-tailed Drongo,-3.485601489,0.633142934
+2,Black-naped Monarch,-3.737796492,0.656220457
+2,Indian Paradise-Flycatcher,-3.185770005,0.64627251
+2,Isabelline Shrike,-4.717445011,0.682408343
+2,Brown Shrike,-4.74007961,0.644674828
+2,Bay-backed Shrike,-3.468006413,0.653917444
+2,Long-tailed Shrike,-2.82327058,0.652167488
+2,Gray-backed Shrike,-3.481160229,0.640860735
+2,Great Gray Shrike,-3.998312996,0.66290332
+2,Eurasian Jay,-4.557733472,0.675323118
+2,Black-headed Jay,-3.552704191,0.672454304
+2,Yellow-billed Blue-Magpie,-3.169403083,0.725820786
+2,Red-billed Blue-Magpie,-3.553904831,0.674817961
+2,Common Green-Magpie,-4.002553534,0.624723446
+2,Rufous Treepie,-1.967050562,0.626595507
+2,Gray Treepie,-3.27150233,0.63086226
+2,White-bellied Treepie,-5.92254258,0.693296927
+2,Eurasian Nutcracker,-4.562467676,0.736359356
+2,Red-billed Chough,-2.790029902,0.686984171
+2,Yellow-billed Chough,-2.659953723,0.675465599
+2,House Crow,-1.13109104,0.647902763
+2,Large-billed Crow,-1.718096776,0.641975402
+2,Common Raven,-3.069842381,0.682840142
+2,Yellow-bellied Fairy-Fantail,-4.228830826,0.702623858
+2,Gray-headed Canary-Flycatcher,-3.635157513,0.652234713
+2,Yellow-browed Tit,-5.052956432,0.673663345
+2,Sultan Tit,-4.218479836,0.677531621
+2,Coal Tit,-3.158217553,0.683361638
+2,Rufous-naped Tit,-2.927034146,0.703507786
+2,Rufous-vented Tit,-4.710056562,0.734683535
+2,Gray-crested Tit,-5.08381569,0.698127289
+2,Green-backed Tit,-3.153625937,0.654630744
+2,Cinereous Tit,-3.096793551,0.616662602
+2,Himalayan Black-lored Tit,-4.032606847,0.660511984
+2,Indian Yellow Tit,-4.329669945,0.645900954
+2,Yellow-cheeked Tit,-4.490327126,0.687756781
+2,Rufous-tailed Lark,-3.653074124,0.630412204
+2,Ashy-crowned Sparrow-Lark,-2.977559782,0.613065281
+2,Bengal Bushlark,-4.036014047,0.637584999
+2,Jerdon's Bushlark,-3.822456481,0.630458264
+2,Indian Bushlark,-3.565653894,0.675851094
+2,Horned Lark,-1.973104726,0.69265528
+2,Greater Short-toed Lark,-4.719939827,0.665010027
+2,Sand Lark,-4.442003102,0.674381825
+2,Oriental Skylark,-4.669669524,0.627515055
+2,Crested Lark,-3.301808137,0.655242737
+2,Malabar Lark,-5.063639727,0.647930881
+2,Tawny Lark,-4.476202864,0.65626851
+2,Common Tailorbird,-1.571934186,0.662374949
+2,Himalayan Prinia,-3.764730547,0.659656747
+2,Rufous-fronted Prinia,-3.974599535,0.625363066
+2,Gray-breasted Prinia,-3.436187088,0.654873803
+2,Delicate Prinia,-4.166082306,0.654072045
+2,Jungle Prinia,-3.627426116,0.677289727
+2,Yellow-bellied Prinia,-4.202624901,0.686746556
+2,Ashy Prinia,-1.814919942,0.657519728
+2,Plain Prinia,-2.630550335,0.641982029
+2,Zitting Cisticola,-3.734001607,0.665358504
+2,Golden-headed Cisticola,-5.689556918,0.703873656
+2,Thick-billed Warbler,-5.486701578,0.646221036
+2,Booted Warbler,-4.203031988,0.64818698
+2,Paddyfield Warbler,-5.344348514,0.777743561
+2,Blyth's Reed Warbler,-3.775372335,0.669883533
+2,Clamorous Reed Warbler,-4.742399446,0.631785033
+2,Striated Grassbird,-4.093745978,0.618615043
+2,Scaly-breasted Cupwing,-4.657640438,0.66777116
+2,Pygmy Cupwing,-4.345923135,0.668403447
+2,Gray-throated Martin,-4.173942139,0.657256379
+2,Bank Swallow,-5.64491865,0.711347281
+2,Eurasian Crag-Martin,-4.223628263,0.677955045
+2,Dusky Crag-Martin,-3.337821476,0.693472261
+2,Barn Swallow,-2.878024271,0.633050174
+2,Wire-tailed Swallow,-2.879112501,0.6634172
+2,Red-rumped Swallow,-2.987370875,0.685153546
+2,Streak-throated Swallow,-4.158712721,0.670489545
+2,Nepal House-Martin,-4.569403989,0.668412024
+2,Gray-headed Bulbul,-5.309739602,0.659270696
+2,Black-crested Bulbul,-3.185219142,0.638245524
+2,Flame-throated Bulbul,-5.34891083,0.674791389
+2,Striated Bulbul,-4.624152353,0.646701552
+2,Red-vented Bulbul,-0.685191693,0.643103931
+2,Red-whiskered Bulbul,-2.225888859,0.644086887
+2,White-eared Bulbul,-2.572727131,0.705425949
+2,Himalayan Bulbul,-1.95575984,0.687309628
+2,Yellow-throated Bulbul,-5.654118927,0.688909198
+2,White-browed Bulbul,-3.18293498,0.633664556
+2,White-throated Bulbul,-3.463341775,0.671128667
+2,Yellow-browed Bulbul,-4.652705708,0.647116217
+2,Black Bulbul,-2.681555416,0.679006205
+2,Square-tailed Bulbul,-5.741461253,0.652155888
+2,Ashy Bulbul,-3.899752284,0.651925852
+2,Mountain Bulbul,-4.422349861,0.656331616
+2,Ashy-throated Warbler,-4.207511663,0.716855018
+2,Buff-barred Warbler,-4.190099798,0.673931834
+2,Yellow-browed Warbler,-3.684284765,0.688546357
+2,Hume's Warbler,-3.804946674,0.646431952
+2,Lemon-rumped Warbler,-3.821135646,0.642957696
+2,Tytler's Leaf Warbler,-6.561960144,0.74625759
+2,Sulphur-bellied Warbler,-4.13268933,0.6487402
+2,Tickell's Leaf Warbler,-4.75064551,0.650382495
+2,Dusky Warbler,-3.692138591,0.659805908
+2,Common Chiffchaff,-6.006754059,1.449509913
+2,Gray-cheeked Warbler,-3.398322009,0.708152018
+2,Whistler's Warbler,-4.393707598,0.654183789
+2,Greenish Warbler,-3.693147182,0.620229401
+2,Large-billed Leaf Warbler,-5.114844844,0.644829181
+2,Chestnut-crowned Warbler,-4.461795344,0.712461894
+2,Yellow-vented Warbler,-4.96720261,0.669962434
+2,Western Crowned Warbler,-4.982422845,0.651607295
+2,Blyth's Leaf Warbler,-3.830676528,0.64116307
+2,Gray-hooded Warbler,-3.212961054,0.680642373
+2,Gray-bellied Tesia,-4.425471383,0.669518531
+2,Gray-sided Bush Warbler,-4.946372703,0.63975032
+2,Chestnut-headed Tesia,-4.65967953,0.665669914
+2,Yellow-bellied Warbler,-4.463421982,0.651737714
+2,Black-faced Warbler,-4.865280512,0.657890143
+2,Mountain Tailorbird,-3.929921541,0.653071629
+2,Brownish-flanked Bush Warbler,-4.01935033,0.679291919
+2,Aberrant Bush Warbler,-5.015156786,0.678151649
+2,Black-throated Tit,-3.565392689,0.656024649
+2,Lesser Whitethroat,-3.614664871,0.657128028
+2,Yellow-eyed Babbler,-3.659932069,0.636943171
+2,Striated Yuhina,-4.062975982,0.684350346
+2,Black-chinned Yuhina,-4.629918593,0.65855327
+2,Whiskered Yuhina,-3.718509745,0.669752401
+2,Stripe-throated Yuhina,-4.720604771,0.694760259
+2,Indian White-eye,-2.751274974,0.648755352
+2,Chestnut-capped Babbler,-4.480153001,0.661542258
+2,Tawny-bellied Babbler,-4.352091979,0.64727207
+2,Dark-fronted Babbler,-5.445385531,0.722228332
+2,Pin-striped Tit-Babbler,-3.48725849,0.647581485
+2,Golden Babbler,-3.622293792,0.647167884
+2,Black-chinned Babbler,-3.684486579,0.642218326
+2,Streak-breasted Scimitar-Babbler,-4.139326536,0.663541324
+2,White-browed Scimitar-Babbler,-5.253807646,0.667136525
+2,Indian Scimitar-Babbler,-4.448868081,0.661925523
+2,Rusty-cheeked Scimitar-Babbler,-4.18964431,0.661914359
+2,Rufous-winged Fulvetta,-4.208328569,0.654734258
+2,Puff-throated Babbler,-4.068206261,0.65502108
+2,Abbott's Babbler,-4.265600487,0.658144775
+2,Brown-cheeked Fulvetta,-4.464065044,0.638061376
+2,Nepal Fulvetta,-3.687936443,0.682145924
+2,Striated Laughingthrush,-4.283134868,0.653653456
+2,Streaked Laughingthrush,-2.217845753,0.639982306
+2,Variegated Laughingthrush,-3.406540576,0.699777403
+2,Chestnut-crowned Laughingthrush,-3.976250166,0.657485889
+2,Rufous Sibia,-3.349821515,0.67835508
+2,Blue-winged Minla,-4.119422207,0.659953806
+2,Chestnut-tailed Minla,-4.284746104,0.660902403
+2,Rusty-fronted Barwing,-4.158268971,0.627019861
+2,Red-billed Leiothrix,-4.561211686,0.651108354
+2,Silver-eared Mesia,-3.417214371,0.67689161
+2,Red-tailed Minla,-4.155617555,0.662638676
+2,Red-faced Liocichla,-4.180884453,0.680415389
+2,Large Gray Babbler,-2.771359336,0.642990748
+2,Rufous Babbler,-5.371034878,0.656480946
+2,Jungle Babbler,-1.894223047,0.635404345
+2,Yellow-billed Babbler,-2.340010462,0.619407979
+2,Common Babbler,-3.165582355,0.678220622
+2,Striated Babbler,-4.262449883,0.641835607
+2,Lesser Necklaced Laughingthrush,-4.471374815,0.681765421
+2,White-crested Laughingthrush,-4.036796209,0.690752817
+2,Rufous-chinned Laughingthrush,-6.053604431,0.671317225
+2,Rufous-necked Laughingthrush,-4.16090325,0.663148499
+2,Greater Necklaced Laughingthrush,-3.86042268,0.650272448
+2,White-throated Laughingthrush,-4.330113718,0.683676297
+2,Wallcreeper,-4.425426111,0.654996484
+2,Indian Nuthatch,-4.174448076,0.617568365
+2,Chestnut-bellied Nuthatch,-4.021803639,0.620726224
+2,White-tailed Nuthatch,-4.517169484,0.664043925
+2,Velvet-fronted Nuthatch,-4.526655991,0.659490131
+2,Bar-tailed Treecreeper,-2.889496453,0.686154305
+2,Eurasian Wren,-3.977691741,0.667956978
+2,Brown Dipper,-3.546517013,0.62391301
+2,Common Hill Myna,-2.89971168,0.663319626
+2,Southern Hill Myna,-5.046119924,0.679913609
+2,European Starling,-4.496726809,0.670275857
+2,Rosy Starling,-3.416451047,0.638295666
+2,Indian Pied Starling,-2.0786557,0.661559939
+2,Brahminy Starling,-2.385826713,0.612658745
+2,Chestnut-tailed Starling,-3.481670382,0.664682683
+2,Malabar Starling,-4.969166659,0.672798895
+2,Common Myna,-0.785624272,0.685672126
+2,Bank Myna,-3.080855387,0.685613071
+2,Jungle Myna,-2.877356194,0.676722034
+2,Great Myna,-3.555238662,0.670338822
+2,Spot-winged Starling,-5.523569604,0.717259115
+2,Alpine Thrush,-5.408042355,0.69569573
+2,Scaly Thrush,-5.111577382,0.685945025
+2,Orange-headed Thrush,-4.04905139,0.633455695
+2,Mistle Thrush,-4.112830808,0.710040672
+2,Gray-winged Blackbird,-4.385213298,0.683483027
+2,Indian Blackbird,-4.771170235,0.630096698
+2,Tickell's Thrush,-4.684985703,0.670030044
+2,White-collared Blackbird,-4.538016054,0.680482898
+2,Chestnut Thrush,-4.91944011,0.686849505
+2,Black-throated Thrush,-3.88142019,0.633163605
+2,Dark-sided Flycatcher,-4.314550207,0.714076646
+2,Asian Brown Flycatcher,-4.428779587,0.65928671
+2,Brown-breasted Flycatcher,-5.799268802,0.686618169
+2,Indian Robin,-1.622380226,0.641286493
+2,Oriental Magpie-Robin,-1.74797749,0.635520131
+2,White-rumped Shama,-4.105346224,0.657620125
+2,White-bellied Blue Flycatcher,-6.245432899,0.657486803
+2,Pale-chinned Blue Flycatcher,-4.191454735,0.657229599
+2,Blue-throated Flycatcher,-4.839508961,0.658203958
+2,Tickell's Blue Flycatcher,-3.52470095,0.60378248
+2,Large Niltava,-4.602624883,0.648868274
+2,Small Niltava,-4.23933634,0.67235075
+2,Rufous-bellied Niltava,-4.415573684,0.670255243
+2,Verditer Flycatcher,-3.674433734,0.611918469
+2,Lesser Shortwing,-4.119502872,0.639591307
+2,Indian Blue Robin,-5.490213674,0.642038511
+2,Bluethroat,-4.506983774,0.657566463
+2,Malabar Whistling-Thrush,-4.616265148,0.677294687
+2,Blue Whistling-Thrush,-2.261695186,0.63303947
+2,Little Forktail,-4.415457799,0.677265431
+2,Spotted Forktail,-3.994194489,0.662914445
+2,Black-backed Forktail,-4.263400546,0.647137357
+2,Slaty-backed Forktail,-5.002854413,0.668483214
+2,Siberian Rubythroat,-4.853465432,0.677765809
+2,Himalayan Rubythroat,-4.515682105,0.666749404
+2,White-tailed Robin,-4.626164575,0.649133845
+2,Himalayan Bluetail,-4.359030826,0.660497563
+2,Golden Bush-Robin,-4.721145861,0.651410119
+2,Slaty-blue Flycatcher,-4.311961563,0.647938064
+2,Snowy-browed Flycatcher,-5.124728362,0.656174073
+2,Rufous-gorgeted Flycatcher,-4.728113957,0.678071974
+2,Little Pied Flycatcher,-4.306594313,0.662034866
+2,Ultramarine Flycatcher,-4.195515903,0.663518904
+2,Rusty-tailed Flycatcher,-5.977415408,0.664162249
+2,Red-breasted Flycatcher,-4.234179454,0.766293314
+2,Blue-fronted Redstart,-3.896516034,0.698157954
+2,Plumbeous Redstart,-3.273112948,0.65425485
+2,White-capped Redstart,-3.211871079,0.652528212
+2,Blue-capped Redstart,-3.873957442,0.675781548
+2,Black Redstart,-3.074241427,0.615268894
+2,Chestnut-bellied Rock-Thrush,-4.330407179,0.652154442
+2,Blue-capped Rock-Thrush,-4.841184654,0.619712848
+2,Blue Rock-Thrush,-4.280087239,0.636759573
+2,Siberian Stonechat,-3.245598605,0.65548566
+2,White-tailed Stonechat,-5.083210144,0.693941151
+2,Pied Bushchat,-2.595164546,0.646674884
+2,Gray Bushchat,-3.402810871,0.667300874
+2,Isabelline Wheatear,-5.000673592,0.678157683
+2,Desert Wheatear,-3.719506311,0.701127047
+2,Brown Rock Chat,-2.766073756,0.629573366
+2,Variable Wheatear,-4.052635452,0.644668879
+2,Thick-billed Flowerpecker,-4.241885217,0.646205464
+2,Pale-billed Flowerpecker,-3.119231442,0.659793917
+2,Nilgiri Flowerpecker,-4.737047427,0.677241709
+2,Plain Flowerpecker,-3.764534559,0.657546569
+2,Fire-breasted Flowerpecker,-4.015330977,0.632572168
+2,Scarlet-backed Flowerpecker,-3.289063385,0.656397013
+2,Ruby-cheeked Sunbird,-4.108793649,0.661966977
+2,Purple-rumped Sunbird,-2.110695261,0.640062891
+2,Crimson-backed Sunbird,-4.54683072,0.665117568
+2,Purple Sunbird,-1.55202779,0.648811952
+2,Loten's Sunbird,-3.860871483,0.618740747
+2,Fire-tailed Sunbird,-4.738139742,0.667708651
+2,Black-throated Sunbird,-3.966760063,0.666978183
+2,Mrs. Gould's Sunbird,-4.466805822,0.667507884
+2,Green-tailed Sunbird,-3.993880186,0.664006902
+2,Vigors's Sunbird,-3.897559658,0.639955519
+2,Crimson Sunbird,-3.520655292,0.673916516
+2,Little Spiderhunter,-4.44068356,0.641189927
+2,Streaked Spiderhunter,-3.53052276,0.64878455
+2,Asian Fairy-bluebird,-4.447116126,0.65322513
+2,Jerdon's Leafbird,-4.032834638,0.6437887
+2,Golden-fronted Leafbird,-3.879343179,0.605377325
+2,Orange-bellied Leafbird,-4.054786368,0.669535358
+2,Streaked Weaver,-5.279443248,0.640955511
+2,Baya Weaver,-2.922192905,0.651754821
+2,Black-breasted Weaver,-4.407283416,0.670384733
+2,Indian Silverbill,-2.553333245,0.663392195
+2,Scaly-breasted Munia,-2.869406907,0.631944501
+2,Black-throated Munia,-5.276346741,0.67488712
+2,White-rumped Munia,-3.653845385,0.680439716
+2,Tricolored Munia,-4.210710838,0.664196817
+2,Red Avadavat,-4.043868235,0.639538138
+2,Alpine Accentor,-4.013916557,0.70856429
+2,Robin Accentor,-2.605336276,0.729503275
+2,Rufous-breasted Accentor,-3.829299732,0.664473396
+2,House Sparrow,-1.693955503,0.674058185
+2,Sind Sparrow,-3.352730185,0.684492716
+2,Russet Sparrow,-3.260127491,0.631521537
+2,Eurasian Tree Sparrow,-2.58177774,0.673169748
+2,Yellow-throated Sparrow,-3.299110052,0.624467331
+2,Forest Wagtail,-5.334936184,0.649131238
+2,Gray Wagtail,-3.403045012,0.661157408
+2,Western Yellow Wagtail,-4.053418223,0.657817815
+2,Citrine Wagtail,-3.900227408,0.643832317
+2,White-browed Wagtail,-2.617210393,0.636962165
+2,White Wagtail,-3.144564675,0.633318608
+2,Paddyfield Pipit,-3.080793606,0.62977316
+2,Long-billed Pipit,-4.820119988,0.648483605
+2,Blyth's Pipit,-5.568297796,0.651257099
+2,Tawny Pipit,-4.578126839,0.653093826
+2,Rosy Pipit,-4.157552273,0.652384717
+2,Tree Pipit,-4.426492924,0.66079129
+2,Olive-backed Pipit,-4.432450686,0.641509649
+2,Black-and-yellow Grosbeak,-4.311961815,0.696069807
+2,Spot-winged Grosbeak,-5.440800216,0.67307815
+2,Common Rosefinch,-4.210534103,0.669533862
+2,Pink-browed Rosefinch,-3.823761952,0.690943516
+2,Red-headed Bullfinch,-5.39091716,0.667019174
+2,Dark-breasted Rosefinch,-4.562263283,0.680537649
+2,Plain Mountain Finch,-3.410703941,0.675461969
+2,Yellow-breasted Greenfinch,-3.642569898,0.648792686
+2,European Goldfinch,-3.515933147,0.692419682
+2,Fire-fronted Serin,-3.279801903,0.654595084
+2,Crested Bunting,-3.97105864,0.644341276
+2,Black-headed Bunting,-4.653310172,0.759455039
+2,Red-headed Bunting,-7.71419574,2.820008244
+2,Rock Bunting,-2.426233818,0.692955167
+2,White-capped Bunting,-4.185972263,0.665156926
+2,Gray-necked Bunting,-4.887510864,0.750554897
+2,Andaman Teal,-3.847740251,0.670059282
+2,White-winged Duck,-5.541126928,0.72679878
+2,Blood Pheasant,-6.241448214,0.807631617
+2,Satyr Tragopan,-6.221987623,0.76020911
+2,Andaman Wood-Pigeon,-3.360837602,0.68747896
+2,Great Indian Bustard,-3.791398042,0.724479117
+2,Andaman Coucal,-0.891637681,0.617154509
+2,Dark-rumped Swift,-3.845537823,0.745275258
+2,Andaman Crake,-3.558599686,0.677098519
+2,Long-billed Plover,-4.875669919,0.729823378
+2,Andaman Serpent-Eagle,-2.938482102,0.679893572
+2,Ward's Trogon,-6.834291961,0.827875772
+2,Brown Hornbill,-3.973867899,0.732730439
+2,Andaman Woodpecker,-2.216786903,0.687591409
+2,Andaman Cuckooshrike,-3.874716185,0.701111031
+2,Andaman Drongo,-1.403691825,0.642401115
+2,Andaman Treepie,-2.724250862,0.661705526
+2,Kashmir Nutcracker,-3.17330148,0.677774206
+2,Gray-crowned Prinia,-6.72353431,0.775755416
+2,Andaman Bulbul,-1.650941358,0.634704275
+2,Pale-footed Bush Warbler,-7.307215365,1.293289594
+2,Broad-billed Warbler,-5.816634527,0.699099094
+2,Fire-tailed Myzornis,-5.892809349,0.76602442
+2,Jerdon's Babbler,-5.306775952,0.7205487
+2,Brown-throated Fulvetta,-5.371546299,0.839750248
+2,Streak-throated Fulvetta,-5.641810486,0.822021213
+2,Black-breasted Parrotbill,-5.048838021,0.691353205
+2,White-breasted Parrotbill,-6.136326686,0.895001787
+2,Rufous-throated Wren-Babbler,-4.980869422,0.674973056
+2,Rufous-throated Fulvetta,-4.902309367,0.72789153
+2,Marsh Babbler,-5.763928928,0.798192818
+2,Bhutan Laughingthrush,-4.925405412,0.763402495
+2,Striped Laughingthrush,-4.051542723,0.78532775
+2,Nilgiri Laughingthrush,-7.791587335,0.886176191
+2,Palani Laughingthrush,-8.361484925,0.843199477
+2,Hoary-throated Barwing,-4.686362274,0.687913234
+2,Streak-throated Barwing,-5.53124968,0.764095614
+2,Rufous-vented Laughingthrush,-6.898980504,0.96242849
+2,Yellow-throated Laughingthrush,-3.457266182,0.848494029
+2,White-headed Starling,-1.614704079,0.677732095
+2,Nilgiri Thrush,-8.437312448,0.692738872
+2,Purple Cochoa,-6.259549698,0.800279181
+2,Andaman Shama,-2.10690562,0.659843854
+2,Nilgiri Sholakili,-7.664110295,0.745607666
+2,White-bellied Sholakili,-7.942322295,0.716360237
+2,Rusty-bellied Shortwing,-5.373811213,0.695851351
+2,Himalayan Shortwing,-5.21788348,0.705013651
+2,Jerdon's Bushchat,-4.335343684,1.277181569
+2,Andaman Flowerpecker,-1.619997908,0.641512839
+2,Nilgiri Pipit,-8.828940431,0.79950198
+2,Orange Bullfinch,-4.399801703,0.732616846
+2,Mishmi Wren-Babbler,-3.846272117,0.426086755
+2,Bar-winged Wren-Babbler,-4.444878962,0.390580675
+2,Naga Wren-Babbler,-3.160327292,0.633387327
+2,Tawny-breasted Wren-Babbler,-2.934165628,0.446294425
+2,Sikkim Wedge-billed Babbler,-4.947100804,0.926418917
+2,Cachar Wedge-billed Babbler,-3.905208042,0.393254254
+2,Bugun Liocichla,-4.310487431,0.579745725
+2,Chestnut-backed Laughingthrush,-3.463130975,0.431738884
